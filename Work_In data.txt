@@ -1,0 +1,5 @@
+INSERT 
+INTO Work_In (d_name)
+VALUES(Computer Science,
+Software and Information Systems
+)

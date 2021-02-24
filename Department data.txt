@@ -1,0 +1,5 @@
+INSERT
+INTO Departments (d_name, number_of_faculties, main_office)
+VALUES (Computer Science,	33,	Department of Computer Science,
+Software and Information Systems,	17,	Department of Software and Information Systems
+)
